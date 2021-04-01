@@ -1,0 +1,41 @@
+body
+{
+    background-attachment: fixed;
+    background-image: url(https://html.sammy-codes.com/images/background.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+.style{
+    color: darkblue;
+    text-align: center;
+}
+.kenya{
+    margin-top: 50px;
+    text-align: center;
+}
+.shop{
+    text-align: center;
+}
+
+.items{
+    color: rgb(5, 7, 109);
+}
+li{
+    text-align: center;
+}
+.items{
+    margin-top: 60px;
+    text-align: center;
+}
+.text1{
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(20, 17, 180);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text2{
+    content: icon;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
